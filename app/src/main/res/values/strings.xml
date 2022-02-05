@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Device ID App</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_resetId">Reset ID</string>
+    <string name="title_registerId">Registrar ID</string>
+    <string name="subheader_registerId">Ingrese un ID para el dispositivo actual</string>
+    <string name="button_ok">Ok</string>
+
+    <!-- State info -->
+    <string name="state_searching">Obteniendo archivo...</string>
+    <string name="state_loading">Cargando...</string>
+    <string name="state_reading">Leyendo...</string>
+    <string name="state_registering">Registrando...</string>
+    <string name="state_saving">Guardando...</string>
+    <string name="state_showId">ID: %s</string>
+
+
+    <!-- Toast messages -->
+    <string name="toast_idSaved">ID registrado con éxito</string>
+    <string name="toast_errorReadingFile">Error obteniendo ID</string>
+</resources>

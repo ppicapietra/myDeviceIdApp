@@ -1,0 +1,4 @@
+El propósito de esta aplicación desarrollada en Java/Android es solo el de implementar un mecanísmo que permita definir un ID de dispositivo arbitrario, al inicio de la aplicación, y que solo pueda ser accesido por ella. El botón de reset se proporciona solo para fines de testeo del mecanismo. En un caso real, una vez definido, no debería poder modificarse desde la aplicación.
+
+API_TARGET: 32
+MIN_SDK: 30
